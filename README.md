@@ -1,1 +1,1 @@
-# Adheesh-Gaurava-Tiwari---Computer-Vision---Week-2
+Through the code I have tried to implement the techniques of face detection, face mesh, hand detection and pose estimation through mediapipe module of python. In the code I have also tried the application of these techniques through the feature of volume control through hand gestures. The code also includes the displaying of FPS in real time on the screen. With this I have also added the demo video of the feature of volume control through hand gestures.
